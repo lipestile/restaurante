@@ -1,0 +1,17 @@
+				ADONIS
+
+Criando um projeto
+
+npm init adonisjs@latest restaurante
+
+api / acess token / sqlite
+
+npm run dev
+
+node ace make: controller Produto
+
+node ace list:routes
+
+ npm i better-sqlite3
+
+node ace migration:run
